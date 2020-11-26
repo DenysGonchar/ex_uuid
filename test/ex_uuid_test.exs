@@ -1,8 +1,8 @@
-defmodule ExUuidTest do
+defmodule ExUUIDTest do
   use ExUnit.Case
-  doctest ExUuid
+  doctest ExUUID
 
   test "greets the world" do
-    assert ExUuid.hello() == :world
+    assert ExUUID.hello() == :world
   end
 end
