@@ -22,6 +22,9 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 ex_uuid-*.tar
 
+# IntelliJ files.
+.idea
+*.iml
 
 # Temporary files for e.g. tests
 /tmp
